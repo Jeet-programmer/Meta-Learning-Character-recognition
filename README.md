@@ -34,7 +34,7 @@ MEta-Learning-Character-Recognition/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/MEta-Learning-Character-Recognition.git
+git clone [https://github.com/yourusername/MEta-Learning-Character-Recognition.git](https://github.com/Jeet-programmer/Meta-Learning-Character-recognition.git)
 cd MEta-Learning-Character-Recognition
 ```
 
